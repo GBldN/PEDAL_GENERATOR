@@ -17,6 +17,11 @@ Concevoir et réaliser un prototype, transformant un vélo d’appartement en g�
 
 ### 4 - REALISATION
 Ce projet à abouti sur un prototype fonctionnel utilisant des lampes de voitures 12V qui étaient encore, en 2014, principalement à incandescences. Les technologies LEDS n'étaient pas encore généralisées.
+<p align="center">
+<img src="Prototype V1.JPG" alt="Proto V1" height=200>
+Le système était controlé par plusieurs interrupteurs permettant de choisir le nombre de lampes alimentées.
+<p align="center">
+<img src="Schéma électrique proto V1.png" alt="schéma Proto V1" height=200>
 
 Les tests menés ont permis d'établir des pointes à plus de 250W de puissance électrique en sortie malgré les pertes très importantes des solutions mécaniques retenues pour le prototype.
 <p align="center">
