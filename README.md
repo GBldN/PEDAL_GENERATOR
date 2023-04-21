@@ -16,11 +16,12 @@ Concevoir et réaliser un prototype, transformant un vélo d’appartement en g�
 <img src="Diagramme exigences.png" alt="Diagrammes des exigences" height=200>
 
 ### 4 - REALISATION
-Ce projet à accouché d'un prototype fonctionnel à base de lampes de voitures 12V qui étaient encore, en 2012, principalement à incandescences. Les technologies LEDS n'étaient pas encore généralisées.
+Ce projet à abouti sur un prototype fonctionnel utilisant des lampes de voitures 12V qui étaient encore, en 2014, principalement à incandescences. Les technologies LEDS n'étaient pas encore généralisées.
+
 Les tests menés ont permis d'établir des pointes à plus de 250W de puissance électrique en sortie malgré les pertes très importantes des solutions mécaniques retenues pour le prototype.
 <p align="center">
 <img src="Test.png" alt="Tests" height=400>
 
-Le schéma électrique est donné ci-dessous :
+Il a ensuite évolué pour devenir une source électrique 220V 50Hz grâce à l'utilisation d'un onduleur dont le schéma électrique est donné ci-dessous :
 <img src="Schéma électrique.png" alt="Schéma électrique" height=400>
 
