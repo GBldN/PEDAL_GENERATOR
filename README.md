@@ -30,6 +30,6 @@ Les tests menés ont permis d'établir des pointes à plus de 250W de puissance 
 Il a ensuite évolué pour devenir une source électrique 220V 50Hz grâce à l'utilisation d'un onduleur dont le schéma électrique est donné ci-dessous :
 
  <p align="center">
-  <img src="Schéma électrique.png" alt="Schéma électrique proto V2" height=300>
+ <img src="Prototype_V2.jpg" alt="proto V2" height=300> <img src="Schéma électrique.png" alt="Schéma électrique proto V2" height=300>
   
 
