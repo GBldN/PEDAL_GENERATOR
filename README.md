@@ -1,4 +1,6 @@
 # GENERATEUR A PEDALAGE
+<p align="center">
+<img src="Platine gyroscope.jpg" alt="Moteur à l'arret" height=400>
 
 ### 1- IDEE DE BASE
 L’idée initiale était de transformer un vélo d'appartement en génératrice pour créer une station d'éclairage d'une zone dans une école primaire à partir du pédalage des élèves.
